@@ -1,0 +1,33 @@
+.redText{ /* las clases en css se inician con . */
+    color:#FF0000; /* RR GG BB (Red Green Blue)*/
+}
+
+.blueText {
+    color: #0000FF; /* en css todo es por propiedad: valor */
+}
+
+.titulos{
+    font-size: 22px;
+    color: #666666;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+.subtitulos{
+    font-size: 18px;
+    color: #999999;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+
+.parrafoNormal{
+    font-size: 12px;
+    color: #000000;
+    text-align: justify;
+}
+
+#textoImportante{ /* los ids se inician con # */
+    color: #FF0000;
+    font-weight: bold;
+    text-transform: uppercase;
+}
