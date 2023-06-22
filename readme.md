@@ -14,6 +14,10 @@ Tipos de programación que veremos en el curso:
 -   Hay propiedad en css que tiene valores de: top right bottom left
     estas propiedades se pueden abreviar con solo dos valores: topRight bottomLeft
 
+-   boilerplate: es la repetición de código
+
+TAREA: Instalar git en la computadora
+
 ---
 
 19 Junio (Web y Mobile)
