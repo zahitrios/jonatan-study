@@ -13,10 +13,20 @@ Tipos de programación que veremos en el curso:
 
 -   Hay propiedad en css que tiene valores de: top right bottom left
     estas propiedades se pueden abreviar con solo dos valores: topRight bottomLeft
+    o con un solo valor si todos van a ocupar lo mismo
 
 -   boilerplate: es la repetición de código
 
-TAREA: Instalar git en la computadora
+-   clases anidadas CSS
+
+TODO:
+Investigar la diferencia entre unidades rem, virtual, pixeles y porcentajes
+Instalar git en la computadora
+Replicar el siguiente diseño: https://zahit-todo-react.netlify.app/
+Mantener el código identado
+
+Extensiones de VSCODE:
+https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css
 
 ---
 
@@ -53,6 +63,6 @@ TAREA: Instalar git en la computadora
 -   Todas las interacciones comienzan con el cliente (osea el navegador)
     -   Websockets es un escenario particular que puede hacer que el servidor detone la comunicación
 
-TAREA:
+TODO:
 
 -   Investigar que es camell case y snake case

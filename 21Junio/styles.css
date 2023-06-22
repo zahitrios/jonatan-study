@@ -1,0 +1,64 @@
+html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{  /* puedo poner el nombre de la etiqueta sin # y sin . para que todas las etiquetas tomen el estilo */
+    margin: 0; /* es lo mismo que margin: 0 0 0 0 */
+    padding: 0; /* es lo mismo que padding: 0 0 0 0 */
+}
+
+h1{
+    margin: 0;
+}
+
+#container{
+    width: 100vw;
+    height: 100vh;
+    background-color: #CCCCCC;
+    
+}
+
+#wrapper{
+    width: 50%;
+    max-width: 500px;
+    min-height: 500px;
+    margin: 0 auto;
+}
+
+#header{
+    width: 100%;
+    min-height: 100px;
+    background-image: url('https://zahit-todo-react.netlify.app/assets/bg-mobile-light-df636158.jpg');
+    /* TODO: investigar las propiedades background-size background-repeat background-position */
+}
+
+#inputField{
+    border-radius: 5px;
+    border: none;
+    outline: none;
+}
+
+#listContainer{
+    background-color: #ffffff;
+}
+
+#listContainer .rowTask{
+    border-bottom: 1px solid #CCCCCC;
+}
+
+#listContainer .rowTask .bullet{
+    float: left;
+}
+
+#listContainer .rowTask .title{
+    float: left;
+}
+
+#listContainer .rowTask .icon{
+    float: right;
+    clear: both;
+}
+
+#filters{
+    margin-top: 30px;
+}
