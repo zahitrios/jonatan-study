@@ -1,7 +1,18 @@
-Tipos de programación:
+Tipos de programación que veremos en el curso:
 
 1. Web / Mobile -> Para acercarnos a los está viviendo el mundo real
-2. Desktop o estática -> Nos va a servir para desarrollar la lógica de programación
+2. Desktop -> Nos va a servir para desarrollar la lógica de programación
+
+---
+
+21 Junio
+
+-   Sandbox: zona de pruebas o de juego https://codesandbox.io/
+-   padding: sangria, del elemento hacia adentro
+-   margin: margen, del elemento hacia afuera
+
+-   Hay propiedad en css que tiene valores de: top right bottom left
+    estas propiedades se pueden abreviar con solo dos valores: topRight bottomLeft
 
 ---
 
