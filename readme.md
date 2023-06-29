@@ -7,6 +7,31 @@ Tipos de programación que veremos en el curso:
 
 28 Junio
 
+Comando de asignación (=)
+variable b = "Jonas"
+variable a = b;
+a <----- "Jonas"
+
+Comparando dos valores dentro de un if
+
+-   `==` Compara si hay igualdad en el valor
+-   `===` Compara si hay igualdad en el valor y en el tipo
+
+Ejercicios modificando el DOM de html
+console.log("Hello world!");
+var root = document.getElementById("root");
+var htmlContent = root.getInnerHTML();
+
+var elements = document.getElementsByClassName("light");
+
+Como instalar git en windows
+https://www.hostinger.mx/tutoriales/instalar-git-en-distintos-sistemas-operativos#Instalar_GIT_en_Windows
+
+`..` hace referencia al directorio superio
+`.` hace referencia al directorio actural
+
+Recursos: - Imágenes aleatorias: https://picsum.photos/
+
 COMANDOS GIT
 
 -   Clonar (copiar todos los archivos) el repositorio a tu máquina
@@ -35,6 +60,18 @@ COMANDOS GIT
 
 -   Verificar en que rama estás
     `git status`
+
+TAREA:
+Investigar lo que son los datos primitivos en los lenguajes de programación
+
+-   Strings
+-   Integers
+-   Flotantes
+
+Investigar condiciones en javascript:
+if
+else
+elseif
 
 ---
 
