@@ -5,6 +5,39 @@ Tipos de programación que veremos en el curso:
 
 ---
 
+28 Junio
+
+COMANDOS GIT
+
+-   Clonar (copiar todos los archivos) el repositorio a tu máquina
+    `git clone https://github.com/zahitrios/jonatan-study.git`
+
+-   Hacer un branch (esto lo hará a partir de la rama en la que estás posicionado)
+    `git branch -b jonas-branch`
+
+-   Moverte entre ramas
+    `git checkout NOMBRE_DE_LA_RAMAS`
+
+-   Hacer un stage (en este ejemplo el . significa todos los archivos)
+    `git add .`
+
+-   Hacer un commit (el mensaje es una breve descripción de lo que estás subiendo)
+    `git commit -m 'mensaje de tu commit'`
+
+-   "Empujar" tu código al respositorio
+    `git push`
+
+-   "Jalar" el código del repositorio
+    `git pull`
+
+-   Verificar que archivos se han modificad
+    `git status`
+
+-   Verificar en que rama estás
+    `git status`
+
+---
+
 21 Junio
 
 -   Sandbox: zona de pruebas o de juego https://codesandbox.io/
