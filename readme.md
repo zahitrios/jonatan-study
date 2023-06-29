@@ -30,7 +30,7 @@ https://www.hostinger.mx/tutoriales/instalar-git-en-distintos-sistemas-operativo
 `..` hace referencia al directorio superio
 `.` hace referencia al directorio actural
 
-Recursos: - Imágenes aleatorias: https://picsum.photos/
+Recursos: - Imágenes aleatorias: https://picsum.photos/ - Explicación de los background-size en CSS https://blog.logrocket.com/understanding-background-size-css/
 
 COMANDOS GIT
 
