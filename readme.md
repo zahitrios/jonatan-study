@@ -5,6 +5,31 @@ Tipos de programación que veremos en el curso:
 
 ---
 
+12 Julio
+
+Para CSS: TailwindCSS - https://tailwindcss.com/ https://tailwindcss.com/docs/installation/play-cdn
+Para JS: JQuery - https://jquery.com/ (No es un framework, es una libería)
+
+Ejemplo de operaciones con cadenas en codesandbox:
+
+```
+let string1 = "BUENOS ";
+let string2 = "días";
+
+let string3 = string1 + string2;
+
+console.log(string3);
+console.log(string1.toLowerCase());
+
+```
+
+Tarea:
+Instalar la extensión de tailwind para vs-code
+Investigar lo que son las rutas relativas y rutas absolutas
+Investigar que es una CDN: https://en.wikipedia.org/wiki/Content_delivery_network
+
+---
+
 28 Junio
 
 Comando de asignación (=)
